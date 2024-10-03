@@ -1,0 +1,568 @@
+#,Product name,Class
+118,adrenic acid,acyl acid
+129,alpha-linolenic acid,acyl acid
+149,arachidonic acid,acyl acid
+242,decanoic acid,acyl acid
+261,docosahexaenoic acid,acyl acid
+263,docosapentaenoic acid,acyl acid
+267,eicosapentaenoic acid,acyl acid
+268,eicosatrienoic acid,acyl acid
+285,free fatty acid,acyl acid
+337,hexanoic acid,acyl acid
+402,linoleic acid,acyl acid
+471,octanoic acid,acyl acid
+474,oleic acid,acyl acid
+615,valeric acid,acyl acid
+13,1-hexadecanol,acyl alcohol
+14,1-octanol,acyl alcohol
+30,2-heptanol,acyl alcohol
+243,decanol,acyl alcohol
+262,docosanol,acyl alcohol
+264,dodecanol,acyl alcohol
+289,fatty alcohol,acyl alcohol
+336,hexadecanol,acyl alcohol
+338,hexanol,acyl alcohol
+286,fatty acid ethyl ester,acyl ester
+287,fatty acid isobutyl ester,acyl ester
+288,fatty acid isopropyl ester,acyl ester
+627,wax ester,acyl ester
+12,1-deoxynojirymicin,alkaloid
+15,1-pipecolic acid,alkaloid
+158,avenanthramide,alkaloid
+190,canadine,alkaloid
+196,chaetominine,alkaloid
+204,cis-n-methylstylopine,alkaloid
+355,indole,alkaloid
+356,indole pyruvic acid,alkaloid
+357,indole-3-acetic acid,alkaloid
+442,melanin,alkaloid
+443,melatonin,alkaloid
+469,noscapine,alkaloid
+483,penicillin,alkaloid
+491,phenazine,alkaloid
+492,phenazine-1-carboxamide,alkaloid
+493,phenazine-1-carboxylic acid,alkaloid
+519,prenylated indole diketopiperazine,alkaloid
+530,protopine,alkaloid
+540,pyrroloquinoline quinone,alkaloid
+550,raucaffricine,alkaloid
+552,reticuline,alkaloid
+561,rosmarinic acid,alkaloid
+571,sanguinarine,alkaloid
+573,scopolamine,alkaloid
+576,sepiapterin,alkaloid
+579,shinorine,alkaloid
+589,stylopine,alkaloid
+601,tetrahydropapaveroline,alkaloid
+602,thailanstatin a,alkaloid
+75,4-hydroxy-1-methyl-2(1h)-quinolone,alkaloid
+231,curcumin,alkaloid
+570,salvianic acid,alkaloid
+20,"2,4-dihydroxyquinoline",alkaloid
+380,l-alanine,amino acid
+381,l-arginine,amino acid
+382,l-aspartic acid,amino acid
+384,l-cysteine,amino acid
+394,l-glutamic acid,amino acid
+395,l-histidine,amino acid
+406,l-isoleucine,amino acid
+409,l-leucine,amino acid
+410,l-lysine,amino acid
+411,l-methionine,amino acid
+417,l-phenylalanine,amino acid
+420,l-proline,amino acid
+422,l-serine,amino acid
+425,l-theanine,amino acid
+426,l-threonine,amino acid
+427,l-tryptophan,amino acid
+428,l-tyrosine,amino acid
+432,l-valine,amino acid
+482,pelargonidin 3-o-glucoside,anthocyanidin
+486,peonidin 3-o-glucoside,anthocyanidin
+146,apigenin,anthoxanthin
+157,astragalin,anthoxanthin
+159,baicalein,anthoxanthin
+160,baicalin,anthoxanthin
+246,deoxyviolacein,anthoxanthin
+252,dihydrokaempferol,anthoxanthin
+365,isokaemferide,anthoxanthin
+372,jaceosidin,anthoxanthin
+373,kaempferol,anthoxanthin
+374,kaempferol 3-o-rhamnoside,anthoxanthin
+430,luteolin,anthoxanthin
+542,quercetin,anthoxanthin
+543,quercetin 3-o-(n-acetyl) xylosamine,anthoxanthin
+544,quercetin 3-o-(n-acetyl)quinovosamine,anthoxanthin
+545,quercetin 3-o-galactoside,anthoxanthin
+546,quercetin-3-o-glucuronide,anthoxanthin
+547,quercitrin,anthoxanthin
+562,rutin,anthoxanthin
+575,scutellarein,anthoxanthin
+621,violacein,anthoxanthin
+119,afzelin,anthoxanthin
+144,anthraquinone,anthraquinone
+155,aspergiolide a,anthraquinone
+269,emodin,anthraquinone
+270,endocrocin,anthraquinone
+489,perylenequinone,anthraquinone
+33,2-hydroxyisobutyric acid,BCAA derived
+38,2-ketoisocaproate,BCAA derived
+39,2-ketoisovalerate,BCAA derived
+41,2-methyl-1-butanol,BCAA derived
+42,2-methyl-1-butyl acetate,BCAA derived
+43,2-methylbutyric acid,BCAA derived
+67,3-methyl-1-butyl acetate,BCAA derived
+83,4-methyl-pentanol,BCAA derived
+361,isoamyl alcohol,BCAA derived
+362,isobutanol,BCAA derived
+363,isobutyl acetate,BCAA derived
+364,isobutyric acid,BCAA derived
+370,isovaleric acid,BCAA derived
+480,pantothenic acid,BCAA derived
+508,pivalcohol,BCAA derived
+447,methyl formate,C1 derived
+105,acetaldehyde,C2 derived
+106,acetic acid,C2 derived
+280,ethanol,C2 derived
+330,glycolic acid,C2 derived
+332,glyoxylic acid,C2 derived
+453,monoethylene glycol,C2 derived
+477,oxalic acid,C2 derived
+34,2-hydroxyisovaleric acid,C3 derived
+45,2-methylsuccinic acid,C3 derived
+66,3-hydroxypropionic acid,C3 derived
+88,5-deoxypsicose,C3 derived
+108,acetoin,C3 derived
+109,acetol,C3 derived
+111,acetylacetoin,C3 derived
+114,acrylic acid,C3 derived
+138,ammonium acrylate,C3 derived
+205,citramalic acid,C3 derived
+247,diacetyl,C3 derived
+253,dihydroxyacetone,C3 derived
+258,d-lactic acid,C3 derived
+329,glycerol,C3 derived
+369,isopropanol,C3 derived
+408,l-lactic acid,C3 derived
+434,maleic acid,C3 derived
+522,propanol,C3 derived
+523,propionic acid,C3 derived
+533,psicose,C3 derived
+541,pyruvic acid,C3 derived
+577,serinol,C3 derived
+583,sorbose,C3 derived
+3,"1,2-propanediol",C3 derived 
+6,"1,3-propanediol",C3 derived 
+16,1-propanol,C3 derived 
+17,"2,3-butanediol",C3 derived 
+23,"2-amino-1,3-propanediol",C3 derived 
+2,"1,2,4-butanetriol",C5 derived 
+54,"3,4-dihydroxybutyric acid",C5 derived 
+147,arabinose,C5 derived 
+148,arabitol,C5 derived 
+265,d-ribose,C5 derived 
+630,xylitol,C5 derived 
+631,xylonic acid,C5 derived 
+27,2-deoxy-scyllo-inosose,C6 derived
+40,2-keto-l-gluonic acid,C6 derived
+89,5-hydroxy-2-hydroxymethyl-gamma-pirone,C6 derived
+92,5-keto-d-gluconate,C6 derived
+113,acetylneuraminic acid,C6 derived
+116,a-d-glucosylglycerol,C6 derived
+123,allitol,C6 derived
+150,arbutin,C6 derived
+260,d-mannose,C6 derived
+277,erythritol,C6 derived
+299,galactonic acid,C6 derived
+307,gdp-l-fucose,C6 derived
+320,glcnac,C6 derived
+322,glucaric acid,C6 derived
+323,gluconic acid,C6 derived
+324,glucosamine,C6 derived
+325,glucose,C6 derived
+359,inositol,C6 derived
+376,kojic acid,C6 derived
+385,legionaminic acid,C6 derived
+386,l-erythrose,C6 derived
+387,l-erythrulose,C6 derived
+392,l-fructose,C6 derived
+393,l-fucose,C6 derived
+424,l-tagatose,C6 derived
+438,mannitol,C6 derived
+459,n-acetylneuraminic acid,C6 derived
+531,prunasin,C6 derived
+156,astaxanthin,carotenoid
+165,beta-carotene,carotenoid
+167,beta-ionone,carotenoid
+226,crocetin,carotenoid
+227,crocin,carotenoid
+433,lycopene,carotenoid
+500,phytoene,carotenoid
+532,pseudoionone,carotenoid
+634,zeaxanthin,carotenoid
+72,3-phenylpropionic acid,cinnamate derived
+99,6-methylsalicylic acid,cinnamate derived
+191,canolol,cinnamate derived
+202,cinnamaldehyde,cinnamate derived
+203,cinnamic acid,cinnamate derived
+213,coniferaldehyde,cinnamate derived
+214,coniferol,cinnamate derived
+505,pinoresinol,cinnamate derived
+566,salicyl alcohol,cinnamate derived
+567,salicylic acid,cinnamate derived
+590,styrene,cinnamate derived
+591,styrene oxide,cinnamate derived
+51,3-(4-hydroxyphenyl) propionic acid,coumarin
+79,4-hydroxycoumarin,coumarin
+185,caffealdehyde,coumarin
+186,caffeic acid,coumarin
+198,chlorogenic acid,coumarin
+221,coumaraldehyde,coumarin
+222,coumaric acid,coumarin
+223,coumaroyl tyrosol,coumarin
+224,coumaroylagmatine,coumarin
+225,coumaryl alcohol,coumarin
+279,esculetin,coumarin
+290,ferulic acid,coumarin
+349,hydroxystyrene,coumarin
+456,n-(p-coumaroyl) phenethylamine,coumarin
+457,n-(p-coumaroyl) tyramine,coumarin
+574,scopoletin,coumarin
+611,umbelliferone,coumarin
+618,vanillic acid,coumarin
+619,vanillin,coumarin
+620,vanillyl alcohol,coumarin
+103,abienol,diterpenoid
+166,beta-hydroxy-manoyl oxide,diterpenoid
+193,casbene,diterpenoid
+294,forskolin,diterpenoid
+316,geranylgeraniol,diterpenoid
+317,geranylgeranyl acetate,diterpenoid
+319,gibberellic acid,diterpenoid
+390,levopimaradiene,diterpenoid
+391,levopimaric acid,diterpenoid
+451,miltiradiene,diterpenoid
+560,rosin,diterpenoid
+597,taxadiene,diterpenoid
+598,taxane,diterpenoid
+46,2-pentanone,FAS derived
+62,3-hydroxybutyric acid,FAS derived
+107,acetoacetic acid,FAS derived
+110,acetone,FAS derived
+171,biotin,FAS derived
+178,butanol,FAS derived
+179,butenoic acid,FAS derived
+180,butyl butyrate,FAS derived
+181,butyl octanoate,FAS derived
+182,butylamine,FAS derived
+183,butyric acid,FAS derived
+228,crotonic acid,FAS derived
+448,methyl ketone,FAS derived
+497,phloroglucinol,FAS derived
+4,"1,3-butanediol",FAS derived 
+25,2-butanol,FAS derived 
+26,2-butanone,FAS derived 
+1,(+)-catechin,flavan
+142,anthocyanin,flavan
+388,leucocyanidin,flavan
+101,8-prenylnaringenin,flavanone
+276,eriodictyol,flavanone
+335,hesperetin-3,flavanone
+504,pinocembrin,flavanone
+514,ponciretin,flavanone
+565,sakuranetin,flavanone
+21,"2,5-furandicarboxylic acid",furan derived
+29,2-furoic acid,furan derived
+121,alkane,hydrocarbon
+122,alkene,hydrocarbon
+484,pentadecane,hydrocarbon
+485,pentane,hydrocarbon
+521,propane,hydrocarbon
+352,indigo,indole derived
+354,indirubin,indole derived
+65,3-hydroxygenistein,isoflavonoid
+237,daidzein,isoflavonoid
+310,genistein,isoflavonoid
+63,3-hydroxy-gamma-butyrolactone,lactone
+64,3-hydroxy-gamma-decalactone,lactone
+302,gamma-decalactone,lactone
+303,gamma-dodecalactone,lactone
+606,triacetic acid lactone,lactone
+632,xylonolactone,lactone
+403,lipid,lipid
+9,"1,8-cineole",monoterpenoid
+130,alpha-pinene,monoterpenoid
+131,alpha-terpineol,monoterpenoid
+207,citronellic acid,monoterpenoid
+208,citronellol,monoterpenoid
+312,geranic acid,monoterpenoid
+313,geraniol,monoterpenoid
+314,geranyl acetate,monoterpenoid
+315,geranyl butyrate,monoterpenoid
+398,limonene,monoterpenoid
+399,"limonene-1,2-diol",monoterpenoid
+400,linalool,monoterpenoid
+455,myrcene,monoterpenoid
+463,nerol,monoterpenoid
+487,perillyl acetate,monoterpenoid
+488,perillyl alcohol,monoterpenoid
+28,oligosaccharide,oligosaccharide
+104,acarbose,oligosaccharide
+257,disialyllactose,oligosaccharide
+377,lactobionic acid,oligosaccharide
+378,lacto-n-tetraose,oligosaccharide
+379,lacto-n-triose,oligosaccharide
+458,n-acetyllactosamine,oligosaccharide
+594,sucrose,oligosaccharide
+605,trehalose,oligosaccharide
+11,15-methyl-6-deoxyerythronolide,polyketide
+74,4-epidaunorubicin,polyketide
+87,5-chloromethyl-triketide lactone,polyketide
+93,5-oxomilbemycin,polyketide
+95,6-deoxybleomycin,polyketide
+96,6-deoxyerythronolide,polyketide
+141,ansamitocin p-3,polyketide
+153,ascomycin,polyketide
+195,cephalosporin c,polyketide
+199,chlortetracycline,polyketide
+210,clavulanic acid,polyketide
+212,compactin,polyketide
+217,corallopyronins,polyketide
+233,cyanidin 3-o-glucoside,polyketide
+241,daptomycin,polyketide
+244,dehydroxymonensin,polyketide
+274,epothilone,polyketide
+278,erythromycin,polyketide
+291,fk506,polyketide
+295,fredericamycin,polyketide
+308,geldanamycin,polyketide
+311,gentisyl alcohol,polyketide
+401,lincomycin,polyketide
+405,lipstatin,polyketide
+416,lovastatin,polyketide
+452,monacolin,polyketide
+460,nargenicin,polyketide
+461,naringenin,polyketide
+462,natamycin,polyketide
+467,noreugenin,polyketide
+475,olivetolic acid,polyketide
+479,oxytetracycline,polyketide
+494,phenol,polyketide
+502,pikromycin,polyketide
+516,pravastatin,polyketide
+520,pristinamycin,polyketide
+548,rapamycin,polyketide
+558,rifamycin,polyketide
+569,salinomycin,polyketide
+581,simvastain acid,polyketide
+585,spinosad,polyketide
+588,streptothricin,polyketide
+599,teicoplanin,polyketide
+600,tetracycline,polyketide
+608,tylosin,polyketide
+616,validamycin,polyketide
+622,virginiamycin,polyketide
+633,yersiniabactin,polyketide
+273,e-poly-l-lysine,polymer
+304,gamma-polyglutamic acid,polymer
+419,l-poly-diaminopropionic acid,polymer
+490,phb,polymer
+509,polyhydroxyalkanoate,polymer
+510,polylactic acid,polymer
+511,polymalic acid,polymer
+513,polysialic acid,polymer
+197,chitosan,polysaccharide
+211,colominic acid,polysaccharide
+232,curdlan,polysaccharide
+309,gellan,polysaccharide
+321,glucan,polysaccharide
+334,heparosan,polysaccharide
+341,hyaluronic acid,polysaccharide
+375,kefiran,polysaccharide
+389,levan,polysaccharide
+449,methylan,polysaccharide
+512,polysaccharide,polysaccharide
+536,pullulan,polysaccharide
+593,succinoglycan,polysaccharide
+628,welan,polysaccharide
+629,xanthan,polysaccharide
+366,isopentenol,pre-isoprenoid
+367,isoprene,pre-isoprenoid
+368,isoprenol,pre-isoprenoid
+450,mevalonic acid,pre-isoprenoid
+518,prenol,pre-isoprenoid
+49,"2-pyrone-4,6-dicarboxylic acid",protocatechuate derived
+68,3-methylcatechol,protocatechuate derived
+117,adipic acid,protocatechuate derived
+194,catechol,protocatechuate derived
+454,muconic acid,protocatechuate derived
+525,protocatechualdehyde,protocatechuate derived
+526,protocatechuic acid,protocatechuate derived
+69,3-methylxanthine,purine
+115,adenosine,purine
+187,caffeine,purine
+188,camp,purine
+218,cordycepin,purine
+333,guanosine,purine
+358,inosine,purine
+534,psilocybin,purine
+603,theophylline,purine
+97,6-hydroxy-3-succinoyl-pyridine,pyridine
+236,cytidine,pyridine
+245,deoxycytidine,pyridine
+266,ectoine,pyridine
+604,thymidine,pyridine
+612,uridine,pyridine
+125,alpha-cuprenene,sesquiterpenoid
+126,alpha-humulene,sesquiterpenoid
+139,amorphadiene,sesquiterpenoid
+151,artemisinic acid,sesquiterpenoid
+152,artemisinin,sesquiterpenoid
+172,bisabolene,sesquiterpenoid
+192,caryophyllene,sesquiterpenoid
+220,costunolide,sesquiterpenoid
+229,cryptomeridiol,sesquiterpenoid
+272,epi-cedrol,sesquiterpenoid
+282,farnesene,sesquiterpenoid
+283,farnesol,sesquiterpenoid
+284,farnesyl acetate,sesquiterpenoid
+318,germacrene,sesquiterpenoid
+414,longifolene,sesquiterpenoid
+464,nerolidol,sesquiterpenoid
+466,nootkatone,sesquiterpenoid
+481,patchoulol,sesquiterpenoid
+517,premnaspirodiene,sesquiterpenoid
+572,santalene,sesquiterpenoid
+613,valencene,sesquiterpenoid
+614,valerenadiene,sesquiterpenoid
+623,viridiflorol,sesquiterpenoid
+635,zizaene,sesquiterpenoid
+527,protoilludene,sesquiterpenoid
+36,2-hydroxyphenazine,Shikimate derived
+37,2-hydroxypropiophenone,Shikimate derived
+47,2-phenylethanol,Shikimate derived
+48,2-phenylethylacetate,Shikimate derived
+58,3-dehydroshikimic acid,Shikimate derived
+60,3-geranyl-4-hydroxybenzoic acid,Shikimate derived
+61,3-hydroxybenzoic acid,Shikimate derived
+81,4-hydroxymandelic acid,Shikimate derived
+82,4-hydroxyphenylacetic acid,Shikimate derived
+135,aminobenzoic acid,Shikimate derived
+136,aminophenylethanol,Shikimate derived
+143,anthranilic acid,Shikimate derived
+161,benzaldehyde,Shikimate derived
+168,betalain,Shikimate derived
+201,chorismic acid,Shikimate derived
+254,dihydroxyphenylacetic acid,Shikimate derived
+300,gallic acid,Shikimate derived
+306,gastrodin,Shikimate derived
+343,hydroxyanthranilic acid,Shikimate derived
+344,hydroxybenzaldehyde,Shikimate derived
+345,para-hydroxybenzoic acid,Shikimate derived
+347,hydroxylbenzoyl tyramine,Shikimate derived
+350,hydroxytyrosol,Shikimate derived
+437,mandelic acid,Shikimate derived
+496,phenyllactic acid,Shikimate derived
+549,raspberry ketone,Shikimate derived
+568,salidroside,Shikimate derived
+578,shikimic acid,Shikimate derived
+609,tyrosol,Shikimate derived
+18,"2,3-dihydroxy-2,3-dihydrobenzoic acid",Shikimate derived
+56,"3,4-dihydroxyphenyl-l-alanine",special AA
+73,4-aminophenylalanine,special AA
+76,4-hydroxy-1-proline,special AA
+80,4-hydroxyisoleucine,special AA
+84,4-no2-l-tryptophan,special AA
+90,5-hydroxyleucine,special AA
+91,5-hydroxytryptophan,special AA
+112,acetylhomoserine,special AA
+120,agmatine,special AA
+163,beta-alanine,special AA
+209,citrulline,special AA
+251,dihomo-methionine,special AA
+275,ergothioneine,special AA
+301,gamma-aminobutyric acid,special AA
+340,homoserine,special AA
+383,l-carnitine,special AA
+396,l-homoalanine,special AA
+415,l-ornithine,special AA
+465,n-methylglutamate,special AA
+468,norleucine,special AA
+476,o-succinyl-l-homoserine,special AA
+563,s-adenosyl-l-methionine,special AA
+177,branched chain free fatty acid,special acyl acid
+235,cyclopropane fatty acid,special acyl acid
+342,hydroxy fatty acid,special acyl acid
+346,hydroxydodecanoic acid,special acyl acid
+348,hydroxypalmitic acid,special acyl acid
+472,odd chain free fatty acid,special acyl acid
+556,rhamnolipid,special lipid
+582,sophorose lipid,special lipid
+100,7-dehydrocholesterol,sterol
+140,androstenedione,sterol
+189,campesterol,sterol
+501,piceatannol,stillbenoid
+506,pinosylvin,stillbenoid
+535,pterostilbene,stillbenoid
+551,resveratrol,stillbenoid
+35,2-hydroxyparaconic acid,TCA derived
+32,2-hydroxyglutaric acid,TCA derived
+44,2-methylcitric acid,TCA derived
+50,2-pyrrolidone,TCA derived
+78,4-hydroxybutyric acid,TCA derived
+85,5-aminolevulinic acid,TCA derived
+86,5-aminovaleric acid,TCA derived
+94,6-aminocaproic acid,TCA derived
+127,alpha-ketobutyric acid,TCA derived
+128,alpha-ketoglutaric acid,TCA derived
+184,cadaverine,TCA derived
+206,citric acid,TCA derived
+256,dipicolinic acid,TCA derived
+297,fumaric acid,TCA derived
+326,glutaconic acid,TCA derived
+327,glutaric acid,TCA derived
+328,glutathione,TCA derived
+353,indigoidine,TCA derived
+371,itaconic acid,TCA derived
+435,malic acid,TCA derived
+436,malonic acid,TCA derived
+446,mesaconic acid,TCA derived
+478,oxaloacetate,TCA derived
+537,putrescine,TCA derived
+584,spermidine,TCA derived
+592,succinic acid,TCA derived
+5,"1,3-diaminopropane",TCA derived 
+7,"1,4-butanediol",TCA derived 
+8,"1,5-diaminopentane",TCA derived 
+19,"2,4-dihydroxybutyric acid",TCA derived 
+24,2-aminobutyric acid,TCA derived 
+10,13r-manoyl oxide,triterpenoid
+102,a-amyrin,triterpenoid
+133,alphitolic acid,triterpenoid
+134,ambrein,triterpenoid
+164,beta-amyrin,triterpenoid
+169,betulinic acid,triterpenoid
+176,botryococcene,triterpenoid
+219,corosolic acid,triterpenoid
+230,cucurbitadienol,triterpenoid
+239,dammarenediol-ii,triterpenoid
+296,friedelin,triterpenoid
+305,ganoderic acid,triterpenoid
+331,glycyrrhetinic acid,triterpenoid
+429,lupeol,triterpenoid
+439,maslinic acid,triterpenoid
+473,oleanolic acid,triterpenoid
+528,protopanaxadiol,triterpenoid
+529,protopanaxatriol,triterpenoid
+587,squalene,triterpenoid
+132,alpha-tocopherol,vitamin
+154,ascorbic acid,vitamin
+444,menaquinone-7,vitamin
+538,pyridoxine,vitamin
+553,retinal,vitamin
+554,retinol,vitamin
+555,retinyl acetate,vitamin
+557,riboflavin,vitamin
+624,vitamin b-12,vitamin
+625,vitamin b-2,vitamin
+626,vitamin b-9,vitamin
